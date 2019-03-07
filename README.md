@@ -1,6 +1,7 @@
 # Module: News Feed
-The `newsfeed ` module is one of the default modules of the MagicMirror.
 This module displays news headlines based on an RSS feed. Scrolling through news headlines happens time-based (````updateInterval````), but can also be controlled by sending news feed specific notifications to the module.
+
+**Attention: This is a modified version of the default module from the MagicMirror². It has more notifications to control the module.**
 
 ## Screenshot
 - News Feed Screenshot using the NYT
